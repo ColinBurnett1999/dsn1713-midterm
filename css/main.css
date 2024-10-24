@@ -6,6 +6,7 @@
 [data-bs-theme=light] {
   --bs-primary: #2e483a;
   --bs-primary-rgb: 46, 72, 58;
+  --bs-body-bg: #F6F3ED;
 }
 
 .btn-primary {
@@ -87,6 +88,10 @@ ul {
 
 .p-4 {
   padding: 15em;
+}
+
+.mt-n1 {
+  margin-top: 7rem !important;
 }
 
 @media(min-width: 993px){
